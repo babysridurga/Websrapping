@@ -9,13 +9,13 @@ How it works:
 Fetches the webpage using requests.
 Extracts titles using BeautifulSoup.
 Stores data in Excel using openpyxl.
+
 Key Features:
 ✅ Fast & automated scraping
 ✅ Clean Excel output
 ✅ Error handling for unreachable sites
 
 Usage:
-
 Install libraries: requests, beautifulsoup4, openpyxl.
 Run the script (main.py).
 Check books.xlsx for results.
