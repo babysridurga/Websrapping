@@ -1,11 +1,11 @@
 
 Simple Web Scraper for Book Titles
-What it does:
 
+What it does:
 Scrapes book titles from books.toscrape.com.
 Saves them in an Excel file (books.xlsx).
-How it works:
 
+How it works:
 Fetches the webpage using requests.
 Extracts titles using BeautifulSoup.
 Stores data in Excel using openpyxl.
